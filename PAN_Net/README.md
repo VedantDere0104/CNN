@@ -1,6 +1,7 @@
 # Path Aggregation Network for Instance Segmentation 
 
-Pytorch implementation of PANNet Paper on top of resnet152
+Pytorch implementation of PANNet Paper on top of resnet152.
+
 PANNet is very useful architecture for multi scale object detection (used in YOLO v4)
 
 You can easily put the implemented PANNet model on top of any architecture provided 4 stage output (for resnet last 4 Resnet Block output)
