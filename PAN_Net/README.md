@@ -8,7 +8,8 @@ You can easily put the implemented PANNet model on top of any architecture provi
 
 Paper :- https://arxiv.org/abs/1803.01534
 
-Abstract 
+Abstract  
+
 The way that information propagates in neural networks
 is of great importance. In this paper, we propose Path Aggregation Network (PANet) aiming at boosting information
 flow in proposal-based instance segmentation framework.
