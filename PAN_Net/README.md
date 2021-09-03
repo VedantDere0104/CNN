@@ -25,6 +25,7 @@ st place in the COCO 2017 Challenge Instance Segmentation task and the 2
 nd place in Object Detection task without large-batch training. It is also state-of-the-art on MVD
 and Cityscapes.
 
+```
 @misc{liu2018path,
       title={Path Aggregation Network for Instance Segmentation}, 
       author={Shu Liu and Lu Qi and Haifang Qin and Jianping Shi and Jiaya Jia},
@@ -33,3 +34,4 @@ and Cityscapes.
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+```
