@@ -44,3 +44,14 @@ Inverted Res Block and Squeeze Exciatation
 
 ## Results :- 
 ![image](https://user-images.githubusercontent.com/76057253/134616964-f308aff0-9177-456e-bd9e-72bc31e62ee3.png)
+
+```
+@misc{tan2020efficientnet,
+      title={EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks}, 
+      author={Mingxing Tan and Quoc V. Le},
+      year={2020},
+      eprint={1905.11946},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
